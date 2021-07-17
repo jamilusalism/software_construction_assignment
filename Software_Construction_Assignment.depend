@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1626505098 source:c:\playground\programming\cpp\software_construction_assignment\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+
+1625733261 source:c:\playground\programming\cpp\software_construction_assignment\src\visitingrequest.cpp
+	"VisitingRequest.h"
+
+1625733261 c:\playground\programming\cpp\software_construction_assignment\include\visitingrequest.h
+
